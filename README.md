@@ -6,9 +6,9 @@ A Python-based benchmarking tool with a graphical interface for optimising Bitax
 
 ---
 
-## What's new in v1.3
+## What's new in v1.4
 
-| Feature | v1.2 | v1.3 |
+| Feature | v1.3 | v1.4 |
 |---|---|---|
 | ASIC error-rate sampling | ❌ | ✅ Read every sample, averaged per step |
 | Error rate in JSON output | ❌ | ✅ `averageErrorRate` field in every result |
